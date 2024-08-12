@@ -1,0 +1,47 @@
+INFO Creating first user...
+INFO Created user: admin with password: Abcd@1234
+INFO Watching for file changes with StatReloader
+INFO "POST /admin/login/?next=/admin/api/user/ HTTP/1.1" 200 4347
+INFO "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO "POST /admin/login/?next=/admin/api/user/ HTTP/1.1" 302 0
+INFO "GET /admin/api/user/ HTTP/1.1" 200 10310
+INFO "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\apps.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO Watching for file changes with StatReloader
+INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\apps.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\apps.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\apps.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\apps.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO Watching for file changes with StatReloader
+INFO Watching for file changes with StatReloader
+INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\apps.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO Watching for file changes with StatReloader
+INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\views.py changed, reloading.
+INFO Watching for file changes with StatReloader

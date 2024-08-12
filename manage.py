@@ -4,6 +4,7 @@ import os
 import sys
 
 
+
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'attendance_management.settings')
@@ -20,3 +21,12 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+from django.core.management.base import BaseCommand
+from api.models import User
+import logging
+class Command(BaseCommand):
+    def handle(self, *args, **kwargs):
+        if not User.objects.exists():
+            user = User.objects.create_superuser(username='admin', email='admin@example.com', password='admin')
+            logging.info(f"Admin user created with username 'admin' and password 'admin'")
