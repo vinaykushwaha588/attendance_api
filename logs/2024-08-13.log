@@ -45,3 +45,135 @@ INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\views.p
 INFO Watching for file changes with StatReloader
 INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\views.py changed, reloading.
 INFO Watching for file changes with StatReloader
+INFO Watching for file changes with StatReloader
+INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO Watching for file changes with StatReloader
+INFO "GET /admin/ HTTP/1.1" 200 8432
+INFO "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 2370
+INFO "GET /admin/api/department/ HTTP/1.1" 200 10681
+INFO "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO "GET /admin/api/department/2/change/ HTTP/1.1" 200 12228
+INFO "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 304 0
+INFO "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO "POST /admin/api/department/2/change/ HTTP/1.1" 302 0
+INFO "GET /admin/api/department/ HTTP/1.1" 200 10909
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO "GET /admin/api/department/1/change/ HTTP/1.1" 200 12176
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO "POST /admin/api/department/1/change/ HTTP/1.1" 302 0
+INFO "GET /admin/api/department/ HTTP/1.1" 200 10896
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO "GET /admin/api/student/ HTTP/1.1" 200 10606
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO "GET /admin/api/student/2/change/ HTTP/1.1" 200 14571
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO "POST /admin/api/student/2/change/ HTTP/1.1" 302 0
+INFO "GET /admin/api/student/ HTTP/1.1" 200 10809
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO "GET /admin/api/student/1/change/ HTTP/1.1" 200 14588
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO "POST /admin/api/student/1/change/ HTTP/1.1" 302 0
+INFO "GET /admin/api/student/ HTTP/1.1" 200 10813
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO "GET /admin/api/course/ HTTP/1.1" 200 10573
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO "GET /admin/api/course/2/change/ HTTP/1.1" 200 15876
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO "POST /admin/api/course/2/change/ HTTP/1.1" 302 0
+INFO "GET /admin/api/course/ HTTP/1.1" 200 10774
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO "GET /admin/api/course/1/change/ HTTP/1.1" 200 15845
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO "POST /admin/api/course/1/change/ HTTP/1.1" 302 0
+INFO "GET /admin/api/course/ HTTP/1.1" 200 10767
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO "GET /admin/api/attendance/ HTTP/1.1" 200 10717
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO "GET /admin/api/attendance/2/change/ HTTP/1.1" 200 15515
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO "POST /admin/api/attendance/2/change/ HTTP/1.1" 302 0
+INFO "GET /admin/api/attendance/ HTTP/1.1" 200 10949
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO "GET /admin/api/attendance/1/change/ HTTP/1.1" 200 15506
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO "POST /admin/api/attendance/1/change/ HTTP/1.1" 302 0
+INFO "GET /admin/api/attendance/ HTTP/1.1" 200 10946
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO "GET /admin/api/student/ HTTP/1.1" 200 10606
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO "GET /admin/api/department/ HTTP/1.1" 200 10681
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO "GET /admin/api/course/ HTTP/1.1" 200 10573
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO "POST /api/user/login/ HTTP/1.1" 200 483
+INFO "GET /api/departments/ HTTP/1.1" 200 236
+INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO "GET /api/course/ HTTP/1.1" 200 353
+INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO "GET /api/student/ HTTP/1.1" 200 294
+INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO "GET /api/attendance/ HTTP/1.1" 200 249
+INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\HP\OneDrive\Desktop\NuageBiztech\attendance_management\api\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO "GET /api/user/user_list/ HTTP/1.1" 200 266
