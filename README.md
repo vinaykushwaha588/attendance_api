@@ -18,8 +18,8 @@ This is an Attendance Management System built using Django and Django REST Frame
 1. **Clone the Repository**
 
    ```bash
-   git clone 
-   cd <repository-directory>
+   git clone https://github.com/vinaykushwaha588/attendance_api.git
+   cd attendance_api
 2. Create and Activate a Virtual Environment.
     python3 -m venv myenv
     myenv\Scripts\activate  or source myenv/bin/activate
