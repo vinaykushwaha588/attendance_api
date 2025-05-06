@@ -45,9 +45,6 @@ link - https://api.postman.com/collections/36505766-69821b04-78a8-468b-b0a3-8041
 ● POST: http:/127.0.0.1:8000/api/departments/: Department Create.
 ● GET: http:/127.0.0.1:8000/api/course/: Course List.
 ● POST: http:/127.0.0.1:8000/api/course/: Course Create.
-
-
-## pipeline updated
 ● GET: http:/127.0.0.1:8000/api/student/: Student List.
 ● POST: http:/127.0.0.1:8000/api/student/: Create Student.
 ● GET: http:/127.0.0.1:8000/api/attendance/: Attendance List.
