@@ -47,7 +47,7 @@ link - https://api.postman.com/collections/36505766-69821b04-78a8-468b-b0a3-8041
 ● POST: http:/127.0.0.1:8000/api/course/: Course Create.
 
 
-## test pipeline
+## test pipeline & repush
 ● GET: http:/127.0.0.1:8000/api/student/: Student List.
 ● POST: http:/127.0.0.1:8000/api/student/: Create Student.
 ● GET: http:/127.0.0.1:8000/api/attendance/: Attendance List.
